@@ -5,8 +5,9 @@
      `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
     ----------------------------------------------------------------- 
 
-
 Hi there! Welcome to Cloud9 IDE!
+=======
+# cloud9cpp
 This project was originally created under codenvy *Local GIT URL in codenvy: http://codenvy.com/git/d1/2c/5a/workspace8b2x8jl24u92sdcl/varios_test
 Then imported to bitbucket. 
 and then imported to github
@@ -31,6 +32,3 @@ The Cloud9 IDE team
 
 Visit http://docs.c9.io for support, or to learn more about using Cloud9 IDE. 
 To watch some training videos, visit http://www.youtube.com/user/c9ide
-=======
-# cloud9cpp
-proyecto creado originalmente en cloud9
