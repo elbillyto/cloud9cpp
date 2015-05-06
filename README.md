@@ -7,6 +7,9 @@
 
 
 Hi there! Welcome to Cloud9 IDE!
+This project was originally created under codenvy *Local GIT URL in codenvy: http://codenvy.com/git/d1/2c/5a/workspace8b2x8jl24u92sdcl/varios_test
+Then imported to bitbucket. 
+and then imported to github
 
 To get you started with C/C++, we have created some small hello world
 applications and a Makefile.
