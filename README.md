@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/elbillyto/cloud9cpp.svg?branch=master)](https://travis-ci.org/elbillyto/cloud9cpp)
      ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
     '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
     |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
