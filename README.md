@@ -1,4 +1,3 @@
-<<<<<<< HEAD
      ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
     '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
     |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
@@ -32,4 +31,3 @@ To watch some training videos, visit http://www.youtube.com/user/c9ide
 =======
 # cloud9cpp
 proyecto creado originalmente en cloud9
->>>>>>> eedd10a88a3517da2d767ab7d1da96b9bd0fdc8e
